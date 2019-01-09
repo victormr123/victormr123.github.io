@@ -1,0 +1,35 @@
+.info{
+    height:50px;
+    width:auto;
+}
+
+html{
+    background-size:600px;
+}
+
+body{
+
+}
+
+.azul{
+    border:solid blue;
+    border-radius:12px;
+}
+
+.button {
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: rgb(42, 151, 46);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: white}
+  
+  .button:active {
+    background-color: white;
+    transform: translateY(4px);
+  }
